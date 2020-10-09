@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "mydb",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "qsoft",
+            "password": "root",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
